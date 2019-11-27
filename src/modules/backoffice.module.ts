@@ -1,4 +1,4 @@
-import { CustomerController } from './../controllers/customer.controller';
+import { CustomerController } from '../backoffice/controllers/customer.controller';
 import { Module } from '@nestjs/common';
 
 @Module({
