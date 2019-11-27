@@ -1,6 +1,6 @@
 import { CreditCard } from './credit-card.model';
 import { Address } from './address.model';
-import { Pet } from "./pet.model";
+import { Pet } from './pet.model';
 
 export class Customer {
     constructor(public name: string,
